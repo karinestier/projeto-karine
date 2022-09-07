@@ -1,0 +1,42 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+<h1 style="color: blue;font-size: 25px"> Venha conhecer nossa Panificaora dos Sonhos</h1>
+<h2>Aqui temos:</h2>
+<h3>
+<ul>
+     <li>Pães</li>
+     <li>Salgados</li>
+     <li>Bolos</li>
+     <li>Cafés</li>
+</ul>
+</h3>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzewkt5qbEaVQaQeOQnyq-V0sh2NRLx8U-mg&usqp=CAU" alt="" srcset="" width="250px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD8r7_ClRajtM_mj82nJbo9RkjmABoPq-poiXQe5aeVyT3DgIdQ5S8vNRyHs4sbwcLcU&usqp=CAU" alt="" srcset="" width="250px">
+<img src="https://st.depositphotos.com/2038145/1967/i/450/depositphotos_19678993-stock-photo-cakes-on-display-in-an.jpg" alt="" srcset="" width="200px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJFCnY1kyIyN8PiC8GQZ-dbfd0Itzf3eMYA&usqp=CAU" alt="" srcset="" width="200px">
+<h3>Endereço:</h3>
+<table border="3">
+    <tr>
+        <th>
+            Bairro
+        </th>
+        <th>
+            Rua
+        </th>
+        </tr>
+        <tr>
+            <td>Morro Alto</td>
+            <td>Pedro Ivo de Campos</td>
+        </tr>
+</table>
+<h2>Compre, e deixe seu comentário do que achou.</h2>
+<input type="Email">
+<h2>Para fazer suas encomendas, entre em contato com nosso whatsapp: </h2>
+<img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-icone.png" alt="" srcset="" width="25px">   
+(42) 988713706
+
+</body>
+</html>
